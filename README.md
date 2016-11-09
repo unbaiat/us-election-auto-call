@@ -7,7 +7,7 @@ I need to go to sleep so I made this script to know the result through a automat
 - Go to https://twilio.com
 - Login or create a new account
 - You can find your SID and TOKEN in the dashboard
-- Create a twilio number and paste it here
+- Create a twilio number and paste it in the script
 
 # How to run it:
 - `pip install twilio`
