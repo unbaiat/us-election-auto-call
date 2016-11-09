@@ -1,7 +1,7 @@
 # us-ellection-auto-call
 US election result - Automated call
 
-I need to go to sleep so I made this script to know the result through a automated phone call.
+I really need to sleep, so I made this script to know the result through an automated phone call.
 
 # First things first:
 - Go to https://twilio.com

@@ -7,7 +7,7 @@ import requests, json, time
 from twilio.rest import TwilioRestClient
 
 #--------#--------#--------#--------#--------#--------
-#https://twilio.com
+#Go to https://twilio.com
 #Login or create a new account
 #You can find your SID and TOKEN in the dashboard
 #Create a twilio number and paste it here
